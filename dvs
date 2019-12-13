@@ -1,0 +1,47 @@
+<div class="container">
+
+ 
+
+  <!-- change overlay text -->
+
+ 
+
+
+
+<!-- 
+
+
+
+1) go to sketchfab.com and browse for a model
+
+
+
+2) copy URL from embed - you need  https://sketchfab.com/models/145a513ac6154e36b6ba336eadfc3e00 <-- only this number
+
+
+
+3) paste number after https://sketchfab.com/models
+
+
+
+for example: 145a513ac6154e36b6ba336eadfc3e00  
+
+
+
+https://sketchfab.com/models/c5e6fe4a90264bcb8ad29d4467addd72
+
+
+
+https://sketchfab.com/models/145a513ac6154e36b6ba336eadfc3e00/
+
+
+
+-->
+
+  
+
+  <iframe class="canvas" src="https://sketchfab.com/models/5b1cf4406c304ca188442a00e1a97b36/embed?&autostart=1&camera=0&ui_infos=0&ui_controls=0&ui_stop=0" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel=""></iframe>
+
+  
+
+</div>
